@@ -1,4 +1,4 @@
-# Big Move kKnban Customizations
+# Big Move Kanban Customizations
 
 **Theme Summary**
 
