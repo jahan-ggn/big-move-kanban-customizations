@@ -10,7 +10,7 @@ export default class ReplaceLastPostBy extends Component {
   }
 
   get topicCreator() {
-    return this.args.topic.creator.username;
+    return this.args.topic.creator.name;
   }
 
   @action
